@@ -18,26 +18,10 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-defi-fcc
-cd hardhat-defi-fcc
+git clone https://github.com/Abhisek0x/Aave-Defi-Project.git
+cd Aave-Defi-Project
 yarn
 ```
-
-## Typescript
-
-For the typescript edition, run:
-
-```
-git checkout typescript
-```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/hardhat-defi-fcc)
-
-
 # Usage
 
 This repo requires a mainnet rpc provider, but don't worry! You won't need to spend any real money. We are going to be `forking` mainnet, and pretend as if we are interacting with mainnet contracts. 
